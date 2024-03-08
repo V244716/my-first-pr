@@ -8,6 +8,7 @@ A pull request is a way to suggest changes to a repository. When you create a pu
 <!-- TODO: Add information on PRs and forks. -->
 Add forks to the PR definition
 
+Give correct reason to why PRs are named that
 
 ## Set up your environment
 
